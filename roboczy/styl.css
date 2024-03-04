@@ -5,9 +5,10 @@ body {
  font-family : Verdana
 }
 p {
- color : #C3C48D;
+ color : #928C6F;
  background : #D1EFB5;
  width : 400px;
+ margin : 120px;
 }
 h1 {
  margin : 80px;
