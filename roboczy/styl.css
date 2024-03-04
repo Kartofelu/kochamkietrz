@@ -3,12 +3,11 @@ body {
  text-align : center;
  margin : 50px;
  font-family : Verdana
+ scroll-behavior : smooth;
 }
 p {
  color : #928C6F;
  background : #D1EFB5;
- width : 400px;
- margin : 120px;
 }
 h1 {
  margin : 80px;
