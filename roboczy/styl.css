@@ -8,7 +8,7 @@ body {
 p {
  color : #928C6F;
  #grad {
-  background-image: linear-gradient(to #D1EFB5 , #D3FAD6);
+  background-image: linear-gradient(to #D1EFB5 , #D1EFB5 , #D3FAD6);
 }
 }
 h1 {
