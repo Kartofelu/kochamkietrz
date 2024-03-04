@@ -15,3 +15,6 @@ h1 {
  border : 2px #928C6F;
  background : #EDEBA0;
 }
+li {
+ text-align : left;
+}
