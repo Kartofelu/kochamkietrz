@@ -1,0 +1,16 @@
+body {
+ background : #D3FAD6;
+ text-align : center;
+ margin : 50px;
+}
+div {
+ color : #C3C48D;
+ background : #D1EFB5;
+ width : 400px;
+ border : 3px black solid;
+}
+h1 {
+ margin : 20px;
+ border : 2px #928C6F;
+ background : #EDEBA0;
+}
