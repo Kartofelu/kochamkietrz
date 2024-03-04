@@ -3,7 +3,7 @@ body {
  text-align : center;
  margin : 50px;
  font-family : Verdana;
- scroll-behavior : smooth;
+ scroll-behavior : smooth !important;
 }
 p {
  color : #928C6F;
