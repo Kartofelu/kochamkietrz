@@ -7,7 +7,9 @@ body {
 }
 p {
  color : #928C6F;
- background : #D1EFB5;
+ #grad {
+  background-image: linear-gradient(to #D1EFB5 , #D3FAD6);
+}
 }
 h1 {
  margin : 80px;
